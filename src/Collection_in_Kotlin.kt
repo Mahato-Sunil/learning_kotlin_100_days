@@ -1,5 +1,7 @@
 fun main() {
-    list_collection()//list collection
+    list_collection()//list collection]
+    set_collection()
+    map_collection()
 }
 
 //list collection
@@ -32,7 +34,7 @@ fun list_collection() {
     var item = castingList[2]
     println("The Item in 3rd  position is $item and in 5th position is ${castingList[4]}")
 
-    //removing the last element
+    //removing the last element.
     castingList.remove("Java")
     println("After Removing the Java  : \n $castingList")
 
@@ -42,4 +44,19 @@ fun list_collection() {
     else
         println("Scripting is not exist in the list ")
 
+    // counting the total number of items
+    var count = castingListLocked.count()
+    println("Total number of count is $count")
+
+}
+
+//function set
+fun set_collection(){
+    var mutableSet = mutableSetOf("Apple","Orange", "Mango")
+    println(mutableSet)
+}
+
+fun map_collection(){
+    val readMap = mapOf("Name" to "Sunil", "age " to 12)
+    println(readMap)
 }
