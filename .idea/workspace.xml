@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f9e0af-1163-4ca1-b4ea-84cc6dd9751e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercise_function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions_in_kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedometer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenTime.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fizzfuzz_game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/for_loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/when_implementation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_in_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection_in_Kotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2h0bO0DaDVcJE0UovWtN5xQvh2d" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,9 +42,12 @@
     "Kotlin.Collection_in_KotlinKt.executor": "Run",
     "Kotlin.Exercise_functionKt.executor": "Run",
     "Kotlin.FirstProgramKt.executor": "Run",
+    "Kotlin.Fizzfuzz_gameKt.executor": "Run",
+    "Kotlin.For_loopKt.executor": "Run",
     "Kotlin.Functions_in_kotlinKt.executor": "Run",
     "Kotlin.PedometerKt.executor": "Run",
     "Kotlin.ScreenTimeKt.executor": "Run",
+    "Kotlin.When_implementationKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -69,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716733919943</updated>
       <workItem from="1716733920968" duration="4711000" />
-      <workItem from="1716776791065" duration="4329000" />
+      <workItem from="1716776791065" duration="4454000" />
+      <workItem from="1716874559317" duration="1128000" />
     </task>
     <servers />
   </component>
