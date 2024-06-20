@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f9e0af-1163-4ca1-b4ea-84cc6dd9751e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/circleAreaFun.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Kotlin.Fizzfuzz_gameKt.executor": "Run",
     "Kotlin.For_loopKt.executor": "Run",
     "Kotlin.Functions_in_kotlinKt.executor": "Run",
+    "Kotlin.LambdaExpressionKt.executor": "Run",
     "Kotlin.PedometerKt.executor": "Run",
     "Kotlin.ScreenTimeKt.executor": "Run",
     "Kotlin.When_implementationKt.executor": "Run",
@@ -74,7 +75,9 @@
       <workItem from="1716733920968" duration="4711000" />
       <workItem from="1716776791065" duration="4454000" />
       <workItem from="1716874559317" duration="1525000" />
-      <workItem from="1718675510553" duration="1400000" />
+      <workItem from="1718675510553" duration="1977000" />
+      <workItem from="1718679152452" duration="41000" />
+      <workItem from="1718897072045" duration="1302000" />
     </task>
     <servers />
   </component>
